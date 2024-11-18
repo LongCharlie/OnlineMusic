@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/new/prefix2">
+        <file>image/background.jpg</file>
+        <file>image/AI.png</file>
+        <file>image/exchanges.png</file>
+        <file>image/back2.jpg</file>
+        <file>image/back3.png</file>
+        <file>image/close2.png</file>
+        <file>image/minimizing.png</file>
+        <file>image/search.png</file>
+        <file>image/music.png</file>
+        <file>image/Document.png</file>
+        <file>image/next.png</file>
+        <file>image/stop.png</file>
+        <file>image/piror.png</file>
+        <file>image/volumn.png</file>
+        <file>image/24gl-play.png</file>
+        <file>image/stop2.png</file>
+        <file>image/skin.png</file>
+        <file>image/silent.png</file>
+    </qresource>
+</RCC>
